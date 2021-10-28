@@ -4,7 +4,7 @@
 
 #### 引入
 ```bash
-go get https://github.com/sky-rainy/plugin_translation
+go get  github.com/sky-rainy/plugin_translation
 ```
 #### 使用方法
 ```bash
